@@ -131,14 +131,5 @@
       "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1787068084.735278,
-    "completed_at": 1787068089.101486,
-    "comments": [
-      "You did not pull Alice's changes to your own main branch!"
-    ],
-    "status": "Incomplete"
   }
 ]
