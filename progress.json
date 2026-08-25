@@ -374,5 +374,14 @@
       "Great work pushing the PQR branch to your fork!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787684007.780926,
+    "completed_at": 1787684011.295655,
+    "comments": [
+      "The original local commit on DEF is missing. You may have lost your work instead of merging."
+    ],
+    "status": "Incomplete"
   }
 ]
